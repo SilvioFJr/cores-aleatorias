@@ -1,5 +1,7 @@
 # Cores Aleatórias
 
+🔗 **Demo:** https://silviofjr.github.io/cores-aleatorias/
+
 Este é um simples aplicativo de gerador de cores aleatórias desenvolvido em HTML, CSS e JavaScript. O aplicativo gera cores aleatórias de forma dinâmica e permite que você veja o código RGB/hexadecimal da cor.
 
 ![Exemplo](image.png)
@@ -18,7 +20,6 @@ Este é um simples aplicativo de gerador de cores aleatórias desenvolvido em HT
 
 ## Como usar:
 
-1. Clone este repositório em seu ambiente local.
-2. Abra o arquivo `index.html` em seu navegador web.
-3. Selecione o formato do código da cor.
-4. Clique no botão "CLICK ME" para obter uma cor aleatória.
+1. Acesse a [demo](https://silviofjr.github.io/cores-aleatorias/) ou clone o repositório e abra o `index.html` no navegador.
+2. Selecione o formato do código da cor.
+3. Clique no botão "CLICK ME" para obter uma cor aleatória.
