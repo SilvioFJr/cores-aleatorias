@@ -21,5 +21,5 @@ Este é um simples aplicativo de gerador de cores aleatórias desenvolvido em HT
 ## Como usar:
 
 1. Acesse a [demo](https://silviofjr.github.io/cores-aleatorias/) ou clone o repositório e abra o `index.html` no navegador.
-2. Selecione o formato do código da cor.
+2. Selecione o formato do código da cor (RGB ou HEX).
 3. Clique no botão "CLICK ME" para obter uma cor aleatória.
